@@ -11,3 +11,4 @@
 | [vscode-shortcuts.md](vscode-shortcuts.md) | Visual Studio Code keyboard shortcuts |
 | [linear-shortcuts.md](linear-shortcuts.md) | Linear keyboard shortcuts |
 | [discord-shortcuts.md](discord-shortcuts.md) | Discord keyboard shortcuts |
+| [nvim-telescope-integration.md](nvim-telescope-integration.md) | How to use nvim-telescope to search cheatsheets |
