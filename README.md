@@ -12,3 +12,4 @@
 | [linear-shortcuts.md](linear-shortcuts.md) | Linear keyboard shortcuts |
 | [discord-shortcuts.md](discord-shortcuts.md) | Discord keyboard shortcuts |
 | [nvim-telescope-integration.md](nvim-telescope-integration.md) | How to use nvim-telescope to search cheatsheets |
+| [neovim-quickref.md](neovim-quickref.md) | Neovim quick reference guide (from `:help quickref`) |
